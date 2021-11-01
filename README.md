@@ -8,6 +8,20 @@
 - 💻 I am currently learning about UX/UI, web tools and mobile apps
 - 🔭 I’m currently working on Sicoob as Java developer
 - ⚡ In my free time i hang out with my family and friends or working on my app projects
+
+
+<h2 align="center">You can reach me at</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arthur-belfort-7568b8f34/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="erfan linkdin profile" height="30" width="30">
+  </a>
+  <a href="https://www.instagram.com/art_belfort/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="erfan Instagram Profile" height="30" width="30">
+  </a>
+</p>
+
+
 ---
 
 <h3 align="left">Languages:</h3>
