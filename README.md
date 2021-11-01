@@ -75,7 +75,7 @@
 ---
 
 <h3 align="left">Projects:</h3>
-<p align="left">  <img alt="Visual Studio Code" src="https://github.com/Arthur756/Arthur756/blob/9f1d9a91b02af0e159d33d6de4c6ebea6fa56449/0Logo%20Arthur%20Belfort%20PNG.png"/> <img alt="Visual Studio" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>  <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/> 
+<p align="left">  <img alt="Visual Studio Code" src="https://github.com/Arthur756/Arthur756/blob/9f1d9a91b02af0e159d33d6de4c6ebea6fa56449/0Logo%20Arthur%20Belfort%20PNG.png"width="150px"/> <img alt="Visual Studio" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" />  <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/> 
 
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
 <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
