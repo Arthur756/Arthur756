@@ -1,4 +1,4 @@
-![arthur](https://github.com/Arthur756/Arthur756/blob/a3a31aa838b16e58ae1cc03b46ead529af0b2bee/Logo%20AB%20BLACK%20-%20Copia.jpg)
+![arthur](https://github.com/Arthur756/Arthur756/blob/5d57586a1454d92116b4b422ccee3554c487c4eb/chris-ried-ieic5Tq8YMk-unsplash.jpg)
 
 <h1 align="center">Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Arthur   <a href="http://discord.com/users/Arthur#9906" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Arthur#9906" height="50" width="40" /></a>&nbsp; </h1>
 
