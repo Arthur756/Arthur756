@@ -80,12 +80,12 @@
 <p align="left"> 
   <a href="https://www.instagram.com/ab.designart/">
     <img alt="AB" src="https://github.com/Arthur756/Arthur756/blob/9f1d9a91b02af0e159d33d6de4c6ebea6fa56449/0Logo%20Arthur%20Belfort%20PNG.png"width="120px"/> 
-    </a>
+    </a>&nbsp;
   
   
   <a href="https://www.instagram.com/job_sphere/">
      <img alt="Visual Studio"     src="https://github.com/Arthur756/Arthur756/blob/cc080b8e1ecf770cb181fc79c1241a313e3bd0c5/Ativo%205.png" width="120px"/>
-    </a>
+    </a>&nbsp;
   
   
   <a href="https://www.instagram.com/eon.card/">
